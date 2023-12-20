@@ -1,1 +1,1 @@
-# Machine-Learning-Project
+In this project, I have explored regression and classification problems for predicting house prices. I have also used decision tree models to check the performance of different algorithms and then used confusion matrix and AUC curve to review them. 
